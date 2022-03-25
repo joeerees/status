@@ -16,10 +16,10 @@ status-website:
   introTitle: "Status"
   introMessage: This page shows the status of josephre.es, and is powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
-    - title: Home
-      href: /
     - title: Status
       href: /upptime
+    - title: Home
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
