@@ -12,7 +12,7 @@ status-website:
   # cname: josephre.es/upptime
   baseUrl: /status
   logoUrl: https://josephre.es/favicons/apple-touch-icon.png
-  name: Upptime
+  name: Status - Joseph Rees
   introTitle: "Status"
   introMessage: This page shows the status of josephre.es, and is powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
