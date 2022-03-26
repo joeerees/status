@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: josephre.es/upptime
-  baseUrl: /upptime
+  baseUrl: /status
   logoUrl: https://josephre.es/favicons/apple-touch-icon.png
   name: Upptime
   introTitle: "Status"
