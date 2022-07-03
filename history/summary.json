@@ -4,17 +4,19 @@
     "url": "https://josephre.es",
     "icon": "https://favicons.githubusercontent.com/josephre.es",
     "slug": "joseph-rees",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 275,
-    "timeWeek": 253,
+    "timeDay": 257,
+    "timeWeek": 251,
     "timeMonth": 228,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   }
 ]
