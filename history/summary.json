@@ -1,14 +1,14 @@
 [
   {
     "name": "Joseph Rees",
-    "url": "https://josephre.es",
-    "icon": "https://favicons.githubusercontent.com/josephre.es",
+    "url": "https://josephrees.uk",
+    "icon": "https://favicons.githubusercontent.com/josephrees.uk",
     "slug": "joseph-rees",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 257,
@@ -16,7 +16,7 @@
     "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-03": 6
     }
   }
 ]
