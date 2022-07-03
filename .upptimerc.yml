@@ -4,17 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Joseph Rees
-    url: https://josephre.es
+    url: https://josephrees.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.josephre.es
+  cname: status.josephrees.uk
   # baseUrl: /status
-  logoUrl: https://josephre.es/favicons/apple-touch-icon.png
+  logoUrl: https://josephrees.uk/favicons/apple-touch-icon.png
   name: Status - Joseph Rees
   introTitle: "Status"
-  introMessage: This page shows the status of josephre.es, and is powered by [Upptime](https://github.com/upptime/upptime).
+  introMessage: This page shows the status of josephrees.uk, and is powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Home
       href: /
