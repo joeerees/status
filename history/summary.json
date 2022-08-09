@@ -4,7 +4,7 @@
     "url": "https://josephrees.uk",
     "icon": "https://favicons.githubusercontent.com/josephrees.uk",
     "slug": "joseph-rees",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 255,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2022-08-09": 0,
       "2022-08-05": 33
     }
   }
