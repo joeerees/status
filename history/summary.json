@@ -4,7 +4,7 @@
     "url": "https://josephrees.uk",
     "icon": "https://icons.duckduckgo.com/ip3/josephrees.uk.ico",
     "slug": "joseph-rees",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 428,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-10-04": 1175,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
