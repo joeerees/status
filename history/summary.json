@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/josephrees.com.ico",
     "slug": "joseph-rees",
     "status": "down",
-    "uptime": "85.29%",
+    "uptime": "85.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.66%",
+    "uptimeYear": "59.39%",
     "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-02-13": 42,
+      "2025-02-14": 41,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -165,8 +166,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 103,
-      "2024-08-27": 17,
-      "2024-02-15": 173
+      "2024-08-27": 17
     }
   }
 ]
